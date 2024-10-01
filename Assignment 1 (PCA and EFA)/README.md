@@ -1,4 +1,4 @@
-# Assignment 1: Political Campaign Strategy Consulting Using PCA and EFA
+# Assignment 1: Political Campaign Strategy Consulting Using Dimensionality Reduction Techniques
 
 ## Project Overview
 
