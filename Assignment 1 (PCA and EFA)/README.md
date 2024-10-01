@@ -1,4 +1,4 @@
-# Assignment 1: Political Campaign Strategy Consulting Using Unsupervised Learning
+# Assignment 1: Political Campaign Strategy Consulting Using PCA and EFA
 
 ## Project Overview
 
