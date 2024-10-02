@@ -22,3 +22,11 @@ These clusters provide real estate firms with actionable insights into housing s
 ### Conclusion
 
 This project demonstrates how k-means clustering can be effectively utilized to segment a large real estate dataset into meaningful submarkets. By leveraging this technique, real estate firms can develop targeted marketing strategies, improve property valuation precision, and enhance decision-making across various aspects of real estate transactions. Ultimately, clustering analysis provides a valuable tool for gaining a competitive edge in the real estate market.
+
+### Contributors
+
+This project was a collaborative effort by the following team members:
+
+- David Caban
+- Bronsin Jabraeili
+- Scott Jue
