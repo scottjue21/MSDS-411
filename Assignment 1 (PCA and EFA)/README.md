@@ -30,3 +30,11 @@ These seven factors explained 45% of the variance in the data, with the remainin
 ### Conclusion
 
 The comparison of PCA and EFA showed that EFA is the more suitable method for analyzing political survey data. EFA not only simplifies complex data but also reveals underlying trends and latent variables that are essential for developing targeted political campaign strategies. By identifying key factors related to political ideology, discrimination, trust in government, and other issues, this analysis helps consulting teams gain actionable insights from large, complex survey datasets. Future applications could extend this work by developing new, more efficient questionnaires or predictive models for political leanings.
+
+### Contributors
+
+This project was a collaborative effort by the following team members:
+
+- David Caban
+- Bronsin Jabraeili
+- Scott Jue
