@@ -38,3 +38,11 @@ DBSCAN also achieved a better **Area Under the Curve (AUC)** score (0.64 vs. 0.4
 ## Conclusion
 
 The comparative analysis clearly indicates that DBSCAN is the recommended method for fraud detection in sales transactions. It consistently outperformed Isolation Forest across key metrics, particularly in terms of F1-Score, precision, and recall. DBSCAN's superior performance demonstrates its effectiveness in minimizing the risks associated with fraud, offering businesses a powerful tool to protect financial integrity and customer trust. The reliability and flexibility of these algorithms can be applied not only in fraud detection but also in various fields requiring anomaly detection.
+
+### Contributors
+
+This project was a collaborative effort by the following team members:
+
+- David Caban
+- Bronsin Jabraeili
+- Scott Jue
