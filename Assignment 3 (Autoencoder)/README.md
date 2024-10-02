@@ -1,4 +1,4 @@
-# Credit Card Customer Risk Management Using Unsupervised Learning
+# Assignment 3: Credit Card Customer Risk Management Using Autoencoder
 
 ## Project Overview
 
@@ -43,3 +43,11 @@ While the autoencoder-pretrained model demonstrated higher recall, the baseline 
 ## Conclusion
 
 This study tested the hypothesis that unsupervised learning, specifically auto-encoding, would improve logistic regression for customer segmentation. While the autoencoder-pretrained model delivered similar results, the baseline logistic regression model outperformed it in key metrics. Ultimately, the simplicity and interpretability of the logistic regression model make it the better choice for this problem, demonstrating that sometimes simpler models are more effective, even when advanced techniques are available.
+
+### Contributors
+
+This project was a collaborative effort by the following team members:
+
+- David Caban
+- Bronsin Jabraeili
+- Scott Jue
